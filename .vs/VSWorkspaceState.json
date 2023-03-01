@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WebApiCarniceria",
+    "\\WebApiCarniceria\\WebApiCarniceria",
+    "\\WebApiCarniceria\\WebApiCarniceria\\Controllers",
+    "\\WebApiCarniceria\\WebApiCarniceria\\Controllers\\Entidades"
   ],
-  "SelectedNode": "\\C:\\Users\\saulp\\Documents\\Desarrollo Web Back-end\\repos\\ProyectoClaseBack",
+  "SelectedNode": "\\WebApiCarniceria\\WebApiCarniceria\\appsettings.Development.json",
   "PreviewInSolutionExplorer": false
 }
