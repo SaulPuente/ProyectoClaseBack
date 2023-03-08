@@ -7,6 +7,6 @@
     "\\WebApiCarniceria\\WebApiCarniceria\\Controllers",
     "\\WebApiCarniceria\\WebApiCarniceria\\Controllers\\Entidades"
   ],
-  "SelectedNode": "\\WebApiCarniceria\\WebApiCarniceria.sln",
+  "SelectedNode": "\\WebApiCarniceria\\WebApiCarniceria\\Controllers\\CarniceriaController.cs",
   "PreviewInSolutionExplorer": false
 }
