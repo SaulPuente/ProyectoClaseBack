@@ -3,9 +3,10 @@
     "",
     "\\WebApiCarniceria",
     "\\WebApiCarniceria\\WebApiCarniceria",
+    "\\WebApiCarniceria\\WebApiCarniceria\\bin",
     "\\WebApiCarniceria\\WebApiCarniceria\\Controllers",
     "\\WebApiCarniceria\\WebApiCarniceria\\Controllers\\Entidades"
   ],
-  "SelectedNode": "\\WebApiCarniceria\\WebApiCarniceria\\appsettings.Development.json",
+  "SelectedNode": "\\WebApiCarniceria\\WebApiCarniceria.sln",
   "PreviewInSolutionExplorer": false
 }

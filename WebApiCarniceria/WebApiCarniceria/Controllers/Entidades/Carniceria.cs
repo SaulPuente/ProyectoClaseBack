@@ -1,4 +1,6 @@
-﻿namespace WebApiCarniceria.Controllers.Entidades
+﻿using Microsoft.Extensions.Hosting;
+
+namespace WebApiCarniceria.Controllers.Entidades
 {
     public class Carniceria
     {
@@ -7,5 +9,6 @@
         public string Address { get; set; }
         public string Schedule { get; set; }
         public string Phone { get; set; }
+        public List<Proveedor> Proveedores { get; set; }
     }
 }
